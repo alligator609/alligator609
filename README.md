@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zia Uddin Ahmed
 - 👀 I’m interested in web apps development, android apps development, meachine learning.
-- 🌱 I’m currently learning dotnet web api and angular
+- 🌱 I’m currently working on dotnet and angular
 - 📫 To reach me mail to zia.ete10@gmail.com
 
 <!---
