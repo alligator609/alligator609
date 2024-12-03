@@ -1,8 +1,8 @@
 I'm a software developer with over 4 years of experience, passionate about crafting and enhancing software solutions. My expertise spans across various technologies, ensuring smooth and efficient performance. I excel in problem-solving and thrive in collaborative environments. My ultimate goal is to deliver top-notch software that meets everyone's needs.
 <br>
-Core Competencies
+Core Competencies  <br>
 ✅Software Development: Proficient in .NET, C#, Angular, and Ionic. <br>
-✅Problem-Solving: Adept at identifying issues and implementing effective solutions.<br>
+✅Problem-Solving: Adept at identifying issues and implementing effective solutions. <br>
 ✅Collaboration: Strong team player with excellent communication skills.
 Technical Skills<br>
 ✅Front-end Development: HTML5, CSS, SCSS, Bootstrap, Tailwind, JavaScript, Angular<br>
